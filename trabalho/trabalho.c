@@ -39,7 +39,7 @@ int main()
     Player ranking[MAX_PLAYERS];
     int num_players = 0;
 
-    // Palavras
+    
     char *Facil[] = {"Mesa", "Dente", "Porta", "Casa", "Carro", "Cama"};
     char *Medio[] = {"Caderno", "Tesoura", "Girafa", "Espelho", "Moldura", "Bexiga"};
     char *Dificil[] = {"Procrastinar", "Alquimia", "Convalescer", "Ambiguidade", "Resiliencia", "Paralelepipedo"};
